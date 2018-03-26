@@ -3,3 +3,8 @@ repository filess
 haii 
 hellooo
 hgh
+<<<<<<< HEAD
+=======
+hhhhh
+qwert
+>>>>>>> 34e3442b0430c2adb1570077dea6624b9df1fbaa
